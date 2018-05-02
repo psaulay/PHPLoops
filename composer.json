@@ -1,0 +1,6 @@
+{
+    "name": "root/pairprogramming",
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}

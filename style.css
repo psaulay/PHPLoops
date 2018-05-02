@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+#tableCenter {
+  display: flex;
+  justify-content: center;
+}
+
+.espaceHr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+th {
+  border: 1px solid black;
+  padding: 3px 3px 3px 3px;
+  background-color: white;
+}
+
+tr:nth-child(odd) {
+  background-color: lightgrey;
+}
+
+tr:nth-child(even) {
+  background-color: none;
+}
